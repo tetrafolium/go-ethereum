@@ -1,3 +1,6 @@
 inspecode:
+  global:
+    runtime:
+      go: 1.17
   go-test:
     auto-select: true
