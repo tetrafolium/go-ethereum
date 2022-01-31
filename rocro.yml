@@ -4,4 +4,6 @@ inspecode:
       go: 1.16
   go-test:
     auto-select: true
-    timeout: 2h
+    timeout: 1h
+    thresholds:
+      num-issues: 0
