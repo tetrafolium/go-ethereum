@@ -1,0 +1,3 @@
+inspecode:
+  go-test:
+    auto-select: true
